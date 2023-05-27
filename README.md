@@ -1,0 +1,2 @@
+# Home Page of Food Ordering Website
+I developed this project by using HTML and CSS. It is a responsive and attractive home page of a food ordering website.It contains of Header, Services, OurClients, ContactUs and footer portion.
